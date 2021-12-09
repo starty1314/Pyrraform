@@ -1,0 +1,7 @@
+This projcet is used to interactive with AWS via Boto3.
+
+In the aws folder, there are implementations for a dozen of AWS services. Each service has different implemented functions for the purpose of this project.
+
+By default, the library is looking for the configuration file named app_config.ini and load every configuration from it.
+
+The project also provided DB Ops, Email Ops, Data Ops capabilities.
